@@ -36,7 +36,8 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* 
+/*
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -46,6 +47,7 @@ Figure 02  Encoder 8 * 3
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
+
 */
 
 **PROGRAM**
@@ -54,6 +56,7 @@ Figure 02  Encoder 8 * 3
 
 Developed by:D.Thejaswini
 RegisterNumber:212223110059
+
 */
 ```
 module encoder_4to2(A0, A1, YO, Y1, Y2, Y3);
